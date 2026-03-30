@@ -24,7 +24,7 @@ Stack: Laravel 12, React 19, Inertia.js, Tailwind CSS, Laravel Reverb, PostgreSQ
 
 **[Twitch Codes](https://github.com/Tann2019/twitch-codes)** — A VS Code extension that bridges Twitch chat with your editor. Viewers can trigger highlights, code changes, and other actions directly from chat.
 
-**[Personal Website](https://github.com/Tann2019/personal-website)** — Portfolio and blog site showcasing my work.
+**[Personal Website](https://tannersteorts.com)** — Portfolio and blog site showcasing my work.
 
 ---
 
