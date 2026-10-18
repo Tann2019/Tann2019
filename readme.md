@@ -2,7 +2,7 @@
 
 Full-stack developer specializing in **Laravel + React** applications with real-time capabilities. I build products that are fast, polished, and fun to use.
 
-Currently a Support Engineer at [Givebutter](https://givebutter.com). Based in Billings, MT.
+Currently an Operations Engineer at [Givebutter](https://givebutter.com). Based in Billings, MT.
 
 🌐 [tannersteorts.com](https://tannersteorts.com) · ✉️ [tanner.steorts@icloud.com](mailto:tanner.steorts@icloud.com)
 
